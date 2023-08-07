@@ -1,0 +1,6 @@
+torch
+torchvision
+constriction
+ninja
+matplotlib
+timm
